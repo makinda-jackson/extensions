@@ -23,7 +23,7 @@
     "@tsconfig/node24": "24.0.4",
     "@tsconfig/strictest": "2.0.8",
     "@types/node": "24.12.4",
-    "danger": "13.0.7",
+    "danger": "13.0.8",
     "danger-plugin-pr-hygiene": "0.7.1",
     "prettier": "3.8.3",
     "typescript": "5.9.3",
